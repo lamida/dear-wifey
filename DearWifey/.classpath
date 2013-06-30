@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Work/workspace/dearwifey/DearWifey/war/WEB-INF/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Work/workspace/dearwifey/DearWifey/war/WEB-INF/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Work/workspace/dearwifey/DearWifey/war/WEB-INF/lib/gson-2.2.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_37"/>
+	<classpathentry kind="lib" path="D:/Work/workspace/dearwifey/DearWifey/war/WEB-INF/lib/xmlpull-1.1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Work/workspace/dearwifey/DearWifey/war/WEB-INF/lib/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="D:/Work/workspace/dearwifey/DearWifey/war/WEB-INF/lib/xstream-1.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Work/workspace/dearwifey/lib/objectify-4.0b1.jar" sourcepath="C:/Users/lamida/.m2/repository/com/googlecode/objectify/objectify/4.0b1/objectify-4.0b1-sources.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DearWifeyDroid</string>
+    <string name="title_section_about">About</string>
+    <string name="title_section_find_by_date">Search By Date</string>
+    <string name="title_section_find_random">Random Love Mail</string>
+    <string name="title_section_find_latest">Latest Love Mail</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="about">
+        <![CDATA[
+        Dear Wifey,
+
+Say Love with Code. Some lover maybe will send his woman, a nice gift. Some other lover will give an expensive present. But for me I will do anything for you beside just nice or expensive gift. Rather than buying something I want to create something for you. Something made by my own hand or fingers. I just came in a realization that with proper motivation man can build anything. And you are my most significant motivation. Hopefully this stupid buggy thing can be considered as a proper gift for you. 
+
+Happy birthday my sweetheart. Hopefully you will be always in blissful life. At the same time I hope always can bring a happiness for you. Our adventour and many beautiful journey still wait us ahead. Many years Insya Allah still wait in front of us aswell with every page of its invisible journal waiting to be written by us with dreams, achievements and actions. Also in very short month from now, I hope can hope our babies. Never stop for praying.
+
+Let share something little bit technical. I spent about 1 week to write this. Hopefully you will understand now what is the meaning of "koding bebas" :p. I didn\'t know Android almost at all. Basically it use Java as the syntax. But the platform is quite complex  and we need to understand many things to implement the simplest thing. This apps consist of three parts. 
+
+Data
+Server
+Mobile Apps
+
+For data I fetch our love email using java mail and convert the format into json format. For server I am using google app engine, a cloud server which allows us to build any application, I write the server logic to receive request from mobile apps as well and I put all our email data to server. And the last pieces is this mobile apps. It will fetch latest love mail, random mail and select mail by date. Of course this buggy apps will be improved on the way.
+
+PS: I Love You
+]]>
+</string>
+
+</resources>

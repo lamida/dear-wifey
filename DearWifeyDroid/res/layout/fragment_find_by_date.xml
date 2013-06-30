@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <DatePicker
+            android:id="@+id/datePickerFindMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:calendarViewShown="false" />
+        
+         <Button
+            android:id="@+id/refreshByDate"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Refresh" />
+        
+        
+        <TextView
+            android:id="@+id/textViewByDateTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+        <TextView
+            android:id="@+id/textViewByDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:scrollbars = "vertical"
+             />
+        <TextView
+            android:id="@+id/textViewByDateDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+	
+    </LinearLayout>
