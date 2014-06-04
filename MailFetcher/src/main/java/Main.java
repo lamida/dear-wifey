@@ -29,7 +29,7 @@ public class Main {
 		try {
 			Session session = Session.getDefaultInstance(props, null);
 			Store store = session.getStore("imaps");
-			store.connect("imap.gmail.com", "jonkartagolamida", "loveletter");
+			store.connect("imap.gmail.com", "", "");
 			System.out.println("STORE " + store);
 			
 			Folder inbox = store.getFolder("dear wifey");
